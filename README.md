@@ -1,0 +1,2 @@
+# Uncertainty-calibration-in-material-optimization
+Uncertainty calibration in material optimization refers to adjusting and evaluating uncertainty in active learning models to enhance the efficiency and accuracy of discovering optimal material properties. By refining uncertainty estimates, the model can better prioritize which materials to explore, leading to faster and more effective optimization.
